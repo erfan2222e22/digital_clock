@@ -1,0 +1,38 @@
+body {
+
+
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgb(157, 197, 243) 100%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.houre,
+.minutse,
+.secend {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(245, 239, 239);
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    border-radius: 5px;
+    color: rgb(43, 140, 250);
+    /* background-color: rgb(255, 158, 200); */
+    position: relative;
+    top: 120px;
+    /* bottom: 100px; */
+    left: 110px;
+    background: radial-gradient(circle, rgb(142, 200, 255) 0%, rgb(255, 255, 255) 100%);
+}
+
+p {
+    font-size: 40px;
+}
+
+
+/* *{
+
+font-size: 10px;
+
+
+} */
